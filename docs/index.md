@@ -10,7 +10,9 @@ Each of the lessons addresses a "big idea" that will help you create and debug y
 
 <details>
   <summary>
+    
 ### [0.1: Setting Up Your GameLab Account](https://canvas.instructure.com/courses/1822877/modules/items/27950066)
+  
   </summary>
 
 Get your Code.Org account set up and make sure that I can see it.
