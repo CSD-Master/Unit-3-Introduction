@@ -29,6 +29,10 @@ In these lessons we also start building our debugging skills - learning to:
 
 ### [0.3: Random Numbers & Variables](https://canvas.instructure.com/courses/1822877/modules/items/28036157)
 
+Next up are **parameters** and **variables.**
+
+Parameters are the information needed to do a task - for example, which problems to do for your math homework - or the information that you **pass** to a **method** when you call it. You've already been using parameters to tell the `rect()` and `elipse()` methods where to start drawing and how big the shape should be.
+
 #### [Lesson 4: Shapes & Randomization](http://studio.code.org/s/csd3-2019/stage/4/puzzle/1)
 
 #### [Lesson 5: Variables](http://studio.code.org/s/csd3-2019/stage/5/puzzle/1)
