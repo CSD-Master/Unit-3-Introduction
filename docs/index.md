@@ -6,9 +6,24 @@ In this unit our goal is to develop an understanding of what it means to create 
 
 There is no shame in starting your programming career learning a block based langage - some of the very best computer science schools in the world start their students off in block based development environments: Carnegie Mellon University uses (and developed) Alice, MIT uses Scratch (which they also developed), and the University of California at Berkeley starts their students off in Snap. But, if you'd like to try your hand at a text based language, in Game Lab clicking on the Show Text button will switch the blocks into JavaScript (and Show Blocks will take you back).
 
+Each of the lessons addresses a "big idea" that will help you create and debug your programs.
+
 ### [0.1: Setting Up Your GameLab Account](https://canvas.instructure.com/courses/1822877/modules/items/27950066)
 
+Get your Code.Org account set up and make sure that I can see it.
+
 ### [0.2: Drawing In GameLab](https://canvas.instructure.com/courses/1822877/modules/items/27950075)
+
+The first "big idea" is **sequencing** - the order, or sequence, of the **statements** (instructions) in your programs is important. Changing the order the statements in most programs will change the "meaning" of the program - it will do something different.
+
+In these lessons we also start building our debugging skills - learning to:
+* read code,
+* reason about what it does (or what it is supposed to do),
+* develop theories about what is wrong,
+* test them,
+* repeat until fixed (or you've pulled out all of your hair).
+
+#### [Lesson 2: Plotting Shapes](http://studio.code.org/s/csd3-2019/stage/2/puzzle/1)
 
 #### [Lesson 3: Drawing In GameLab](http://studio.code.org/s/csd3-2019/stage/3/puzzle/1)
 
