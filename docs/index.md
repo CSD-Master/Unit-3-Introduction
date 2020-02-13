@@ -2,44 +2,46 @@
 layout: page
 ---
 
-### 0.1: Setting Up Your GameLab Account
+### [0.1: Setting Up Your GameLab Account](https://canvas.instructure.com/courses/1822877/modules/items/27950066)
 
-### 0.2: Drawing In GameLab
+### [0.2: Drawing In GameLab](https://canvas.instructure.com/courses/1822877/modules/items/27950075)
 
-#### Lesson 3: Drawing In GameLab
+#### [Lesson 3: Drawing In GameLab](http://studio.code.org/s/csd3-2019/stage/3/puzzle/1)
 
 ### 0.3: Random Numbers & Variables
 
-#### Lesson 4: Shapes & Randomization
+#### [Lesson 4: Shapes & Randomization](http://studio.code.org/s/csd3-2019/stage/4/puzzle/1)
 
-#### Lesson 5: Variables
+#### [Lesson 5: Variables](http://studio.code.org/s/csd3-2019/stage/5/puzzle/1)
 
 ### 0.4: Sprites
 
-#### Lesson 6: Sprites
+#### [Lesson 6: Sprites](http://studio.code.org/s/csd3-2019/stage/6/puzzle/1)
 
 ### 0.5: The `draw()` Loop
 
-#### Lesson 7: The Draw Loop
+#### [Lesson 7: The Draw Loop](http://studio.code.org/s/csd3-2019/stage/7/puzzle/1)
 
 ### 0.6: Sprite Movement
 
-#### Lesson 8: The Counter Pattern
+#### [Lesson 8: The Counter Pattern](http://studio.code.org/s/csd3-2019/stage/8/puzzle/1)
 
-#### Lesson 9: Sprite Movement
+#### [Lesson 9: Sprite Movement](http://studio.code.org/s/csd3-2019/stage/9/puzzle/1)
 
 ### 0.7: Conditionals - Teaching the computer to make decisions
 
-#### Lesson 10: Booleans Unplugged
+#### [Lesson 10: Booleans Unplugged](http://studio.code.org/s/csd3-2019/stage/10/puzzle/1)
 
-#### Lesson 11: Conditionals
+#### [Lesson 11: Conditionals](http://studio.code.org/s/csd3-2019/stage/11/puzzle/1)
 
 ### 0.8: User Input
 
-#### Lesson 12: Keyboard 
+#### [Lesson 12: Keyboard Input](http://studio.code.org/s/csd3-2019/stage/12/puzzle/1)
 
-#### Lesson 13: Other Forms of Input
+#### [Lesson 13: Other Forms of Input](http://studio.code.org/s/csd3-2019/stage/13/puzzle/1)
 
 ### 0.9: Designing An Interactive Card
+
+#### [Lesson 14: Project - Interactive Card](http://studio.code.org/s/csd3-2019/stage/14/puzzle/1)
 
 <!-- Pull in repostitory-scope variables from _data/page.yml -->
