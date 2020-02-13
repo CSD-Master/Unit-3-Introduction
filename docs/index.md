@@ -11,7 +11,7 @@ Each of the lessons addresses a "big idea" that will help you create and debug y
 <details>
   <summary>
     
-### [0.1: Setting Up Your GameLab Account](https://canvas.instructure.com/courses/1822877/modules/items/27950066)
+    <h3> [0.1: Setting Up Your GameLab Account](https://canvas.instructure.com/courses/1822877/modules/items/27950066) </h3>
   
   </summary>
 
