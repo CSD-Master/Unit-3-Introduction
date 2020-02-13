@@ -2,6 +2,10 @@
 layout: page
 ---
 
+In this unit our goal is to develop an understanding of what it means to create programs - to tell computers how to accomplish the task that we want them to do for us. We use Code.Org's Game Lab so that we can concentrate on learning *how* to create programs rather than on getting the details of syntax right - that will come in the next units as we start working in Unity and the C# programming language.
+
+There is no shame in starting your programming career learning a block based langage - some of the very best computer science schools in the world start their students off in block based development environments: Carnegie Mellon University uses (and developed) Alice, MIT uses Scratch (which they also developed), and the University of California at Berkeley starts their students off in Snap. But, if you'd like to try your hand at a text based language, in Game Lab clicking on the Show Text button will switch the blocks into JavaScript (and Show Blocks will take you back).
+
 ### [0.1: Setting Up Your GameLab Account](https://canvas.instructure.com/courses/1822877/modules/items/27950066)
 
 ### [0.2: Drawing In GameLab](https://canvas.instructure.com/courses/1822877/modules/items/27950075)
