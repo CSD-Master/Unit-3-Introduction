@@ -21,7 +21,7 @@ In these lessons we also start building our debugging skills - learning to:
 * reason about what it does (or what it is supposed to do),
 * develop theories about what is wrong,
 * test them,
-* repeat until fixed (or you've pulled out all of your hair).
+* repeat until fixed (or you've pulled out all of your hair) - this, by the way, is a loop.
 
 #### [Lesson 2: Plotting Shapes](http://studio.code.org/s/csd3-2019/stage/2/puzzle/1)
 
@@ -32,6 +32,13 @@ In these lessons we also start building our debugging skills - learning to:
 Next up are **parameters** and **variables.**
 
 Parameters are the information needed to do a task - for example, which problems to do for your math homework - or the information that you **pass** to a **method** when you call it. You've already been using parameters to tell the `rect()` and `elipse()` methods where to start drawing and how big the shape should be.
+
+*Variables* are "named values" - you could think of them as labeled jars in which you store a piece of information, a **value.** The label on the jar gives the value a (hopefully) meaningful name. Each variable (jar) holds a single value. You should know how to:
+* **Declare** variables.
+* **Initialize** variables.
+* Name variables (both the rules for "legal" variable names, and how to pick "good" variable names).
+* **Assigning** values to variables.
+* Reference (use) variables.
 
 #### [Lesson 4: Shapes & Randomization](http://studio.code.org/s/csd3-2019/stage/4/puzzle/1)
 
