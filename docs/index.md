@@ -18,7 +18,7 @@ Each of the lessons addresses a "big idea" that will help you create and debug y
 
 <details>
   <summary>
-    <a href=''><b>0.2: Drawing In GameLab](https://canvas.instructure.com/courses/1822877/modules/items/27950075)
+    <a href='https://canvas.instructure.com/courses/1822877/modules/items/27950075'><b>0.2: Drawing In GameLab
   </summary>
 
   <p><b>Objective:</b><p>
