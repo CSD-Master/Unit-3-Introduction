@@ -8,9 +8,11 @@ There is no shame in starting your programming career learning a block based lan
 
 Each of the lessons addresses a "big idea" that will help you create and debug your programs.
 
-### [0.1: Setting Up Your GameLab Account](https://canvas.instructure.com/courses/1822877/modules/items/27950066)
+<details>
+<summary> [0.1: Setting Up Your GameLab Account](https://canvas.instructure.com/courses/1822877/modules/items/27950066) </summary>
 
 Get your Code.Org account set up and make sure that I can see it.
+</details>
 
 ### [0.2: Drawing In GameLab](https://canvas.instructure.com/courses/1822877/modules/items/27950075)
 
