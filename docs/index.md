@@ -16,7 +16,9 @@ Each of the lessons addresses a "big idea" that will help you create and debug y
   <p><b>Objective:</b> Get your Code.Org account set up and join your section.</b>
 </details>
 
-### [0.2: Drawing In GameLab](https://canvas.instructure.com/courses/1822877/modules/items/27950075)
+<details>
+  <summary>
+    <a href=''><b>0.2: Drawing In GameLab](https://canvas.instructure.com/courses/1822877/modules/items/27950075)
 
 The first "big idea" is **sequencing** - the order, or sequence, of the **statements** (instructions) in your programs is important. Changing the order the statements in most programs will change the "meaning" of the program - it will do something different.
 
@@ -30,8 +32,11 @@ In these lessons we also start building our debugging skills - learning to:
 #### [Lesson 2: Plotting Shapes](http://studio.code.org/s/csd3-2019/stage/2/puzzle/1)
 
 #### [Lesson 3: Drawing In GameLab](http://studio.code.org/s/csd3-2019/stage/3/puzzle/1)
+</details>
 
-### [0.3: Random Numbers & Variables](https://canvas.instructure.com/courses/1822877/modules/items/28036157)
+<details>
+  <summary>
+    <a href=''><b>0.3: Random Numbers & Variables](https://canvas.instructure.com/courses/1822877/modules/items/28036157)
 
 Next up are **parameters** and **variables.**
 
@@ -47,8 +52,11 @@ Parameters are the information needed to do a task - for example, which problems
 #### [Lesson 4: Shapes & Randomization](http://studio.code.org/s/csd3-2019/stage/4/puzzle/1)
 
 #### [Lesson 5: Variables](http://studio.code.org/s/csd3-2019/stage/5/puzzle/1)
+</details>
 
-### [0.4: Sprites](https://canvas.instructure.com/courses/1822877/modules/items/28044444)
+<details>
+  <summary>
+    <a href=''><b>0.4: Sprites](https://canvas.instructure.com/courses/1822877/modules/items/28044444)
 
 #### [Lesson 6: Sprites](http://studio.code.org/s/csd3-2019/stage/6/puzzle/1)
 
