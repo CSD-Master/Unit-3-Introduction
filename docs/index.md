@@ -18,10 +18,10 @@ Each of the lessons addresses a "big idea" that will help you create and debug y
 
 <details>
   <summary>
-    <a href='https://canvas.instructure.com/courses/1822877/modules/items/27950075'><b>0.2: Drawing In GameLab
+    <a href='https://canvas.instructure.com/courses/1822877/modules/items/27950075'><b>0.2: Drawing In GameLab</b></a>
   </summary>
 
-  <p><b>Objective:</b><p>
+  <p><b>Objective:</b> Understand how the **sequence** of instructions can change the meaning (output) of a program.<p>
   
 The first "big idea" is **sequencing** - the order, or sequence, of the **statements** (instructions) in your programs is important. Changing the order the statements in most programs will change the "meaning" of the program - it will do something different.
 
@@ -39,7 +39,7 @@ In these lessons we also start building our debugging skills - learning to:
 
 <details>
   <summary>
-    <a href=''><b>0.3: Random Numbers & Variables](https://canvas.instructure.com/courses/1822877/modules/items/28036157)
+    <a href='https://canvas.instructure.com/courses/1822877/modules/items/28036157'><b>0.3: Random Numbers & Variables]()
   </summary>
 
   <p><b>Objective:</b><p>
@@ -62,7 +62,7 @@ Parameters are the information needed to do a task - for example, which problems
 
 <details>
   <summary>
-    <a href=''><b>0.4: Sprites](https://canvas.instructure.com/courses/1822877/modules/items/28044444)
+    <a href='https://canvas.instructure.com/courses/1822877/modules/items/28044444'><b>0.4: Sprites]()
   </summary>
 
   <p><b>Objective:</b><p>
@@ -72,7 +72,7 @@ Parameters are the information needed to do a task - for example, which problems
 
 <details>
   <summary>
-    <a href=''><b>0.5: The `draw()` Loop](https://canvas.instructure.com/courses/1822877/modules/items/28036171)
+    <a href='https://canvas.instructure.com/courses/1822877/modules/items/28036171'><b>0.5: The `draw()` Loop]()
   </summary>
 
   <p><b>Objective:</b><p>
@@ -82,7 +82,7 @@ Parameters are the information needed to do a task - for example, which problems
 
 <details>
   <summary>
-    <a href=''><b>0.6: Sprite Movement](https://canvas.instructure.com/courses/1822877/modules/items/28036180)
+    <a href='https://canvas.instructure.com/courses/1822877/modules/items/28036180'><b>0.6: Sprite Movement]()
   </summary>
 
   <p><b>Objective:</b><p>
@@ -94,7 +94,7 @@ Parameters are the information needed to do a task - for example, which problems
 
 <details>
   <summary>
-    <a href=''><b>0.7: Conditionals - Teaching the computer to make decisions](https://canvas.instructure.com/courses/1822877/modules/items/28036188)
+    <a href='https://canvas.instructure.com/courses/1822877/modules/items/28036188'><b>0.7: Conditionals - Teaching the computer to make decisions]()
   </summary>
 
   <p><b>Objective:</b><p>
@@ -106,7 +106,7 @@ Parameters are the information needed to do a task - for example, which problems
 
 <details>
   <summary>
-    <a href=''><b>0.8: User Input](https://canvas.instructure.com/courses/1822877/modules/items/28036191)
+    <a href='https://canvas.instructure.com/courses/1822877/modules/items/28036191'><b>0.8: User Input]()
   </summary>
 
   <p><b>Objective:</b><p>
@@ -118,7 +118,7 @@ Parameters are the information needed to do a task - for example, which problems
 
 <details>
   <summary>
-    <a href=''><b>0.9: Designing An Interactive Card](https://canvas.instructure.com/courses/1822877/modules/items/28036195)
+    <a href='https://canvas.instructure.com/courses/1822877/modules/items/28036195'><b>0.9: Designing An Interactive Card]()
   </summary>
 
   <p><b>Objective:</b><p>
