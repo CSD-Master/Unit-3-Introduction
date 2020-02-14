@@ -13,7 +13,7 @@ Each of the lessons addresses a "big idea" that will help you create and debug y
     <a href='https://canvas.instructure.com/courses/1822877/modules/items/27950066'><b>0.1: Setting Up Your GameLab Account</b></a>
   </summary>
 
-Get your Code.Org account set up and make sure that I can see it.
+  <p><b>Objective:</b> Get your Code.Org account set up and join your section.</b>
 </details>
 
 ### [0.2: Drawing In GameLab](https://canvas.instructure.com/courses/1822877/modules/items/27950075)
