@@ -39,7 +39,7 @@ In these lessons we also start building our debugging skills - learning to:
 
 <details>
   <summary>
-    <a href='https://canvas.instructure.com/courses/1822877/modules/items/28036157'><b>0.3: Random Numbers & Variables]()
+    <a href='https://canvas.instructure.com/courses/1822877/modules/items/28036157'><b>0.3: Random Numbers & Variables</b></a>
   </summary>
 
   <p><b>Objectives:</b>
