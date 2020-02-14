@@ -19,7 +19,10 @@ Each of the lessons addresses a "big idea" that will help you create and debug y
 <details>
   <summary>
     <a href=''><b>0.2: Drawing In GameLab](https://canvas.instructure.com/courses/1822877/modules/items/27950075)
+  </summary>
 
+  <p><b>Objective:</b><p>
+  
 The first "big idea" is **sequencing** - the order, or sequence, of the **statements** (instructions) in your programs is important. Changing the order the statements in most programs will change the "meaning" of the program - it will do something different.
 
 In these lessons we also start building our debugging skills - learning to:
@@ -37,7 +40,10 @@ In these lessons we also start building our debugging skills - learning to:
 <details>
   <summary>
     <a href=''><b>0.3: Random Numbers & Variables](https://canvas.instructure.com/courses/1822877/modules/items/28036157)
+  </summary>
 
+  <p><b>Objective:</b><p>
+ 
 Next up are **parameters** and **variables.**
 
 Parameters are the information needed to do a task - for example, which problems to do for your math homework - or the information that you **pass** to a **method** when you call it. You've already been using parameters to tell the `rect()` and `elipse()` methods where to start drawing and how big the shape should be.
@@ -57,33 +63,66 @@ Parameters are the information needed to do a task - for example, which problems
 <details>
   <summary>
     <a href=''><b>0.4: Sprites](https://canvas.instructure.com/courses/1822877/modules/items/28044444)
+  </summary>
 
+  <p><b>Objective:</b><p>
+ 
 #### [Lesson 6: Sprites](http://studio.code.org/s/csd3-2019/stage/6/puzzle/1)
+</details>
 
-### [0.5: The `draw()` Loop](https://canvas.instructure.com/courses/1822877/modules/items/28036171)
+<details>
+  <summary>
+    <a href=''><b>0.5: The `draw()` Loop](https://canvas.instructure.com/courses/1822877/modules/items/28036171)
+  </summary>
 
+  <p><b>Objective:</b><p>
+ 
 #### [Lesson 7: The Draw Loop](http://studio.code.org/s/csd3-2019/stage/7/puzzle/1)
+</details>
 
-### [0.6: Sprite Movement](https://canvas.instructure.com/courses/1822877/modules/items/28036180)
+<details>
+  <summary>
+    <a href=''><b>0.6: Sprite Movement](https://canvas.instructure.com/courses/1822877/modules/items/28036180)
+  </summary>
 
+  <p><b>Objective:</b><p>
+ 
 #### [Lesson 8: The Counter Pattern](http://studio.code.org/s/csd3-2019/stage/8/puzzle/1)
 
 #### [Lesson 9: Sprite Movement](http://studio.code.org/s/csd3-2019/stage/9/puzzle/1)
+</details>
 
-### [0.7: Conditionals - Teaching the computer to make decisions](https://canvas.instructure.com/courses/1822877/modules/items/28036188)
+<details>
+  <summary>
+    <a href=''><b>0.7: Conditionals - Teaching the computer to make decisions](https://canvas.instructure.com/courses/1822877/modules/items/28036188)
+  </summary>
 
+  <p><b>Objective:</b><p>
+ 
 #### [Lesson 10: Booleans Unplugged](http://studio.code.org/s/csd3-2019/stage/10/puzzle/1)
 
 #### [Lesson 11: Conditionals](http://studio.code.org/s/csd3-2019/stage/11/puzzle/1)
+</details>
 
-### [0.8: User Input](https://canvas.instructure.com/courses/1822877/modules/items/28036191)
+<details>
+  <summary>
+    <a href=''><b>0.8: User Input](https://canvas.instructure.com/courses/1822877/modules/items/28036191)
+  </summary>
 
+  <p><b>Objective:</b><p>
+ 
 #### [Lesson 12: Keyboard Input](http://studio.code.org/s/csd3-2019/stage/12/puzzle/1)
 
 #### [Lesson 13: Other Forms of Input](http://studio.code.org/s/csd3-2019/stage/13/puzzle/1)
+</details>
 
-### [0.9: Designing An Interactive Card](https://canvas.instructure.com/courses/1822877/modules/items/28036195)
+<details>
+  <summary>
+    <a href=''><b>0.9: Designing An Interactive Card](https://canvas.instructure.com/courses/1822877/modules/items/28036195)
+  </summary>
 
+  <p><b>Objective:</b><p>
+ 
 #### [Lesson 14: Project - Interactive Card](http://studio.code.org/s/csd3-2019/stage/14/puzzle/1)
-
+</details>
 <!-- Pull in repostitory-scope variables from _data/page.yml -->
