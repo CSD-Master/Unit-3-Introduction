@@ -62,7 +62,7 @@ Parameters are the information needed to do a task - for example, which problems
 
 <details>
   <summary>
-    <a href='https://canvas.instructure.com/courses/1822877/modules/items/28044444'><b>0.4: Sprites]()
+    <a href='https://canvas.instructure.com/courses/1822877/modules/items/28044444'><b>0.4: Sprites</b></a>
   </summary>
 
   <p><b>Objective:</b><p>
@@ -72,7 +72,7 @@ Parameters are the information needed to do a task - for example, which problems
 
 <details>
   <summary>
-    <a href='https://canvas.instructure.com/courses/1822877/modules/items/28036171'><b>0.5: The `draw()` Loop]()
+    <a href='https://canvas.instructure.com/courses/1822877/modules/items/28036171'><b>0.5: The `draw()` Loop</b></a>
   </summary>
 
   <p><b>Objective:</b><p>
@@ -82,7 +82,7 @@ Parameters are the information needed to do a task - for example, which problems
 
 <details>
   <summary>
-    <a href='https://canvas.instructure.com/courses/1822877/modules/items/28036180'><b>0.6: Sprite Movement]()
+    <a href='https://canvas.instructure.com/courses/1822877/modules/items/28036180'><b>0.6: Sprite Movement</b></a>
   </summary>
 
   <p><b>Objective:</b><p>
@@ -94,7 +94,7 @@ Parameters are the information needed to do a task - for example, which problems
 
 <details>
   <summary>
-    <a href='https://canvas.instructure.com/courses/1822877/modules/items/28036188'><b>0.7: Conditionals - Teaching the computer to make decisions]()
+    <a href='https://canvas.instructure.com/courses/1822877/modules/items/28036188'><b>0.7: Conditionals - Teaching the computer to make decisions</b></a>
   </summary>
 
   <p><b>Objective:</b><p>
@@ -106,7 +106,7 @@ Parameters are the information needed to do a task - for example, which problems
 
 <details>
   <summary>
-    <a href='https://canvas.instructure.com/courses/1822877/modules/items/28036191'><b>0.8: User Input]()
+    <a href='https://canvas.instructure.com/courses/1822877/modules/items/28036191'><b>0.8: User Input</b></a>
   </summary>
 
   <p><b>Objective:</b><p>
@@ -118,7 +118,7 @@ Parameters are the information needed to do a task - for example, which problems
 
 <details>
   <summary>
-    <a href='https://canvas.instructure.com/courses/1822877/modules/items/28036195'><b>0.9: Designing An Interactive Card]()
+    <a href='https://canvas.instructure.com/courses/1822877/modules/items/28036195'><b>0.9: Designing An Interactive Card</b></a>
   </summary>
 
   <p><b>Objective:</b><p>
