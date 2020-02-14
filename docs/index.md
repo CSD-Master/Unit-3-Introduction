@@ -42,7 +42,10 @@ In these lessons we also start building our debugging skills - learning to:
     <a href='https://canvas.instructure.com/courses/1822877/modules/items/28036157'><b>0.3: Random Numbers & Variables]()
   </summary>
 
-  <p><b>Objective:</b><p>
+  <p><b>Objectives:</b>
+    * Recognize parameters to function calls (for example the **x** and **y** in `rect(x, y)` and understand their purpose.
+    * Explain the concept of a **variable** and correctly **declare** and use variables in simple cases.
+  <p>
  
 Next up are **parameters** and **variables.**
 
