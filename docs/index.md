@@ -14,6 +14,7 @@ Each of the lessons addresses a "big idea" that will help you create and debug y
   </summary>
 
   <p><b>Objective:</b> Get your Code.Org account set up and join your section.</b>
+  
 </details>
 
 <details>
@@ -26,6 +27,7 @@ Each of the lessons addresses a "big idea" that will help you create and debug y
 The first "big idea" is **sequencing** - the order, or sequence, of the **statements** (instructions) in your programs is important. Changing the order the statements in most programs will change the "meaning" of the program - it will do something different.
 
 In these lessons we also start building our debugging skills - learning to:
+
 * read code,
 * reason about what it does (or what it is supposed to do),
 * develop theories about what is wrong,
@@ -43,8 +45,10 @@ In these lessons we also start building our debugging skills - learning to:
   </summary>
 
   <p><b>Objectives:</b>
+  
     * Recognize parameters to function calls (for example the **x** and **y** in `rect(x, y)` and understand their purpose.
     * Explain the concept of a **variable** and correctly **declare** and use variables in simple cases.
+    
   <p>
  
 Next up are **parameters** and **variables.**
