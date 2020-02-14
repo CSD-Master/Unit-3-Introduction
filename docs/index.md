@@ -22,7 +22,7 @@ Each of the lessons addresses a "big idea" that will help you create and debug y
     <a href='https://canvas.instructure.com/courses/1822877/modules/items/27950075'><b>0.2: Drawing In GameLab</b></a>
   </summary>
 
-  <p><b>Objective:</b> Understand how the **sequence** of instructions can change the meaning (output) of a program.<p>
+  <p><b>Objective:</b> Understand how the <b>sequence</b> of instructions can change the meaning (output) of a program.<p>
   
 The first "big idea" is **sequencing** - the order, or sequence, of the **statements** (instructions) in your programs is important. Changing the order the statements in most programs will change the "meaning" of the program - it will do something different.
 
@@ -37,6 +37,7 @@ In these lessons we also start building our debugging skills - learning to:
 #### [Lesson 2: Plotting Shapes](http://studio.code.org/s/csd3-2019/stage/2/puzzle/1)
 
 #### [Lesson 3: Drawing In GameLab](http://studio.code.org/s/csd3-2019/stage/3/puzzle/1)
+
 </details>
 
 <details>
